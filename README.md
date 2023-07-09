@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del modulo 2 de Henry JS
+Este archivo es una prueba de como crear un repositorio en github y clonarlo localmente en mi maquina
